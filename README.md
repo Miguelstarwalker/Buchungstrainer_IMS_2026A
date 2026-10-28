@@ -11,6 +11,9 @@
 **Ergebnisse und Fortschritte:** Wir haben heute unsere vollständige Anforderungsanalyse erstellt, zusammen mit einem PAP.
 Wir haben auch mit dem Coden begonnen, und das Design unserer Applikation erstellt. Wir finden, dass wir heute ein sehr solides Fortschritt gemacht haben. Wir haben das heutige Meilenstein erreicht und dazu noch das Design der Applikation erstellt.
 
-**Probleme und Herausforderungen:** 
+**Probleme und Herausforderungen:** Wir hatten am heutigen Tag eigentlich keine Probleme gehabt. Alles ist gut gegangen und jeder von uns hat seine Aufträge vollständig erledigt.
+
+**Fazit:** Wir alle finden, dass wir heute eine sehr tolle Arbeit geleistet haben. Wir waren alle konzentriert und fleissig am arbeiten und konnten am Schluss vom der Lektionen, alle unsere Aufträge erledigen. Ausserdem gab es keine Probleme oder Hindernisse, die uns zurückgehalten haben.
+
 
 <img width="1348" height="2182" alt="Bild (1)" src="https://github.com/user-attachments/assets/ddd5c7fe-1315-4e2a-b46d-1f5a5670c5ee" />
